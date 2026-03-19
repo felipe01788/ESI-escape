@@ -1,0 +1,7 @@
+OB01-Llave plateada-LLave plateada, sirve para abrir un candado-01
+OB02-Nota B03-Nota con el número 6 apuntado-01
+OB03-Nota A07-Nota con el número 3 apuntado-04
+OB04-Llave magnética-Llave magnética, sirve para abrir el despacho F12-04
+OB05-Mapa-Mapa de la planta 1, se ve una x en el lugar de la cafetería-05
+0B06-Nota F12-Nota con el número 7 apuntado-05
+OB07-Rompecristales-Martillo rompecristales, quizás haya que usarlo para entrar en algún lado-06

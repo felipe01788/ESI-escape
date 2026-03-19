@@ -1,0 +1,51 @@
+SALAS para el juego:
+- INICIO(sala 0)
+	Aula random(ej:B03)
+	Puzle[Caja con 4 botones]
+		¿Si al tirar de la cadena el agua gira en sentido antihorario, en que país estoy? 
+		·Alemania ·Brasil ·Australia ·Sudáfrica
+		Respuesta correcta(Alemania):Llave plateada
+	Llave plateada desbloquea puerta
+	Descripción: Esta es la sala B03, al parecer, lo único que se encuentra es una caja con botones en la mesa del profesor y una nota(pone el número 6) 
+-PASILLO B PLANTA BAJA(sala 1)
+	Puzle[velocímetro en el pasillo]
+		Cartel en el que esté escrito "8 km/h", ¿Qué decides hacer?
+		·Pasar andando ·Pasar trotando ·Pasar corriendo ·Pasar esprintando
+		Respuesta correcta(trotando): se abre la puerta del pasillo
+	Descripción: Pasillo de la planta baja, se ve un aparato al mitad del pasillo conectado a la puerta que conecta con el siguiente, parece que no abre
+-Clase A01 (sala 2)
+	Puzle[Problema apuntado en la pizarra]
+		A+C=D
+		A·B=C
+		C-B=B
+		A·4=D
+		ABCD=
+		Respuesta correcta(2368, es la única respuesta posible, puzle 010 layton y la villa misteriosa)
+	El código al usarlo en un candado en la puerta del inicio del pasillo hace que se abra
+	Descripción: Me encuentro en la sala A01, es una de las 2 puertas abierta del pasillo, en la pizarra se encuentra un problema y en la puerta  principal del pasillo hace falta un código numérico
+
+-Clase A07 (sala 3)
+	No puzle, en esta sala sólo habrá una nota con un número apuntado(3) y una limpiadora que te pedirá una contraseña para un regalo
+	Descripción: La sala A07, es una de las 2 puertas abierta del pasillo, se puede ver un trozo de papel en una de las mesas y una limpiadora
+
+-Clase E15[aula de ordenadores] (sala 4)
+	Puzle[colores en las pantallas]
+		En 4 ordenadores de la clase, cada uno tendrá la pantalla de un color diferente, ese código (por ejemplo, ARVB) al decírselo a la limpiadora te dará una llave magnética para abrir la siguiente sala
+	Descripción: La aula E15, una de las clases con ordenadores, la mayaría están apagador pero hay algunos con colores en las pantallas, amarillo en la fila 1, rojo en la 2, verde en la 3 y blanco en la 4
+
+-Despacho F12 (sala 4)
+	Puzle[exámenes]
+		En la mesa habrán 5 exámenes, cada uno con una nota distinta(1º:6, 2º:7, 3º:5, 4º:3, 5º:9)
+		Respuesta correcta: 9 7 6 5
+ 	Uno de los cajones se desbloqueará mediante un panel táctil introduciendo las notas de los exámenes aprobados de mayor a menor. En el cajón habrá un mapa de la planta de arriba con una x en la cafetería y otra nota que ponga "5"
+	Descripción: El despacho F12,se ven exámenes con estas notas: 6, 7, 5, 3 y 9. Un mensaje en el ordenador dice "los mejores primero" y un cajón tiene un panel táctil.
+
+-Cafetería (sala 5)
+	Puzle[camarero]
+		El camarero pedirá un código: "3 voces te ha dado el viaje, en  su orden deberás contarme"
+		Respuesta correcta: 637
+	Al darle el código te dará un martillo rompe cristales(como el de los buses) y dirá "en secretaria encontrarás el final del camino"
+	Descripción: La cafetería, está vacía, salvo por un hombre en la barra
+
+-Secretaría(sala 6 y final)
+	La sala final, si eso poner un botón que ponga "salir de la carrera" y te de un mensaje de felicitaciones
