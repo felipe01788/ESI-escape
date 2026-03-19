@@ -1,8 +1,16 @@
-#ifndef salas_h
+#ifndef __SALAS_H__
+#define __SALAS_H__
 typedef struct{
-int Id_sala;
-char[31] Nomb_sala;
-char[8] Tipo; //Indica si la sala es INICIAL, NORMAL o SALIDA
-char[151] Descrip;
+    int Id_sala;
+    char Nomb_sala[31];
+    char Tipo[8]; //Indica si la sala es INICIAL, NORMAL o SALIDA
+    char Descrip[151];
 }sala;
-#endif //salas_h
+//precondicion: el fichero salas.txt debe estar creado y con los datos necesarios para cargar las salas
+//postcondicion: se cargan las salas del juego en un vector de tipo sala
+void cargar_salas(sala salas[]);
+//precondicion: el vector de tipo sala debe estar cargado con los datos de las salas del juego
+//postcondicion: se muestra la descripcion de la sala a la que se accede a traves de su id
+void descripcion_sala(sala salas[], int Id_sala);
+#endif __SALAS_H__
+
