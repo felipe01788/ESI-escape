@@ -6,8 +6,8 @@ typedef struct{
     char Jugador[11];//vector de tipo caracter para almacenar el nombre de jugador usado para entrar al sistema
     char Contrasea[9];//vector de tipo carcter para alamacenar la contrasea del jugador
     int Id_obj[10];//Tamao del vector sujeto a cambios durante el desarrollo del projecto, esta vector sirve para acceder al los ids de los onjetos del inventario del jugador
-}Jugador;
+}jugador;
 //precondicion: el fichero jugadores.txt debe estar creado y con los datos necesarios para cargar los jugadores
 //postcondicion: se cargan los jugadores del juego en un vector de tipo Jugador
-void cargar_jugadores(Jugador jugadores[]);
+void cargar_jugadores(jugador jugadores[]);
 #endif __CONEXIONES_H__
