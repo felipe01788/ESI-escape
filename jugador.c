@@ -1,5 +1,6 @@
-#ifndef __CONEXIONES_H__
-#define __CONEXIONES_H__
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
 typedef struct{
     char Id_jugador[3];//variable de tipo entero para indicar el id del jugador
     char Nomb_jugador[21];//vector de tipo carcter para almacenar el nombre completo del jugador
@@ -7,5 +8,3 @@ typedef struct{
     char Contrasena[9];//vector de tipo carcter para alamacenar la contrasea del jugador
     char Id_obj[10];//Tamao del vector sujeto a cambios durante el desarrollo del projecto, esta vector sirve para acceder al los ids de los onjetos del inventario del jugador
 }jugador;
-
-#endif __CONEXIONES_H__

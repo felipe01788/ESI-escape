@@ -3,7 +3,7 @@
 typedef struct{
     char Id_puzle[4];
     char Nomb_puzle[16];
-    int Id_sala;//>Quiza interesa hacer un puntero al id de sala mas adelante en la implementacion
+    char Id_sala;//>Quiza interesa hacer un puntero al id de sala mas adelante en la implementacion
     char Tipo[8]; //Codigo o Palabra
     char Descrip[151];
     char Sol[51]; //Solucion al puzle
