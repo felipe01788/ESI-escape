@@ -1,0 +1,7 @@
+P01-Sentido_agua-01-Palabra-¿Si al tirar de la cadena el agua gira en sentido antihorario, en que país estoy?·Alemania·Brasil·Australia·Sudáfrica-Alemania
+P02-Velocimetro-02-Palabra-Cartel en el que esta escrito "8 km/h", ¿Qué decido hacer?·Andar·Trotar·Correr·Esprintar-Trotar
+P03-Problema-03-Codigo-A+C=D,A·B=C,C-B=B,A·4=D,ABCD=-2368
+P04-Colores-04-Codigo-A lo mejor en otra sala descubro cual es el código...-AVRB
+P05-Examenes-06-Codigo-En la mesa hay 5 exámenes, cada uno con una nota distinta(1º:6, 2º:7, 3º:5, 4º:3, 5º:9) y en el ordenador pone los mejores primero-97653
+P06-Voces-07-Codigo-"3 voces te ha dado el viaje, en  su orden deberás contarme"-637
+

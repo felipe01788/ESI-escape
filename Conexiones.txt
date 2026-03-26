@@ -1,0 +1,9 @@
+01-01-02-Bloqueada-P01
+02-02-03-Bloqueada-P02
+03-03-04-Abierta-0
+04-03-05-Bloqueada-P03
+05-05-04-Abierta-0
+06-05-06-Bloqueada-P04
+07-06-07-Bloqueada-P05
+08-07-08-Bloqueada-P06
+09-09-09-Bloqueada-OB05
