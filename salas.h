@@ -11,6 +11,9 @@ typedef struct{
 void cargar_salas(sala salas[]);
 //precondicion: el vector de tipo sala debe estar cargado con los datos de las salas del juego
 //postcondicion: se muestra la descripcion de la sala a la que se accede a traves de su id
-void descripcion_sala(sala salas[], char sala_actual);
+void describir_sala(sala salas[], char sala_actual);
+//precondicion: el vector de tipo sala debe estar cargado con los datos de las salas del juego
+//postcondicion: se devuelve el nombre de la sala a la que se accede a traves de su id
+char* devolver_nombre_sala_actual(sala salas[], char sala_actual);
 #endif __SALAS_H__
 
