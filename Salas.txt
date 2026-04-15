@@ -1,0 +1,10 @@
+01-B03-INICIAL-Sala B03, al parecer, lo único que se encuentra es una caja con botones en la mesa del profesor y una nota
+02-Pasillo_B-NORMAL-Pasillo de la planta baja, se ve un aparato al mitad del pasillo conectado a la puerta que conecta con el siguiente, parece que no abre
+03-A01-NORMAL-Sala A01, una de las 2 puertas abierta del pasillo, en la pizarra se encuentra un problema 
+04-A07-NORMAL-Sala A07, es una de las 2 puertas abierta del pasillo, se puede ver un trozo de papel en una de las mesas y una limpiadora
+05-E15-NORMAL-Aula E15, hay algunos con colores en las pantallas, amarillo en la fila 1, rojo en la 2, verde en la 3 y blanco en la 4
+06-F12-NORMAL-Despacho F12,se ven exámenes con estas notas: 6, 7, 5, 3 y 9. Un mensaje en el ordenador dice "los mejores primero" y un cajón tiene un panel táctil.
+07-Cafetería-NORMAL-La cafetería, está vacía, salvo por un hombre en la barra
+08-Secretaría-SALIDA-Enhorabuena, has ganado
+
+
